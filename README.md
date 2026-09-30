@@ -22,14 +22,14 @@ This analysis uses the **2023 NSCH Topical Public Use File**, funded by the Heal
 
 ## Methods
 
-|`Component` | `Description`|
-|`Design`| `Cross-sectional analysis`|
-|`Exposure`| `Parent-perceived neighborhood safety (safe v. unsafe)`|
-|`Outcome`| `Parent-reported weekday and weekend outdoor playtime`|
-|`Covariates`| `Federal poverty-level (FPL), Metropolitian Statistical Area Status (MSA)`|
-|`Model`| `Survey-weighted multinomial logistic regression models accounted for  for the NSCH complex sampling design, sequentially adjusted for covariates.`|
-|`Missing data`| `Multiply imputed FPL (six replicates), pooled using Rubin's Rules`|
-|`Effect measure modification`| Interaction terms for child sex, parental education, parental employment, school status, park or playground presence, sidewalk presence, and neighborhood detracting elements.`|
+|**Component** | **Description**|
+|Design| Cross-sectional analysis|
+|Exposure| Parent-perceived neighborhood safety (safe v. unsafe)|
+|Outcome| Parent-reported weekday and weekend outdoor playtime|
+|Covariates| Federal poverty-level (FPL), Metropolitian Statistical Area Status (MSA)|
+|Model| Survey-weighted multinomial logistic regression models accounted for  for the NSCH complex sampling design, sequentially adjusted for covariates.|
+|Missing data| Multiply imputed FPL (six replicates), pooled using Rubin's Rules|
+|Effect measure modification| Interaction terms for child sex, parental education, parental employment, school status, park or playground presence, sidewalk presence, and neighborhood detracting elements.|
 
 ## Key Results 
 
