@@ -173,8 +173,9 @@ For Tables 4 and 5: all interaction models were adjusted for FPL (reference: 400
 
 | File | Description |
 |---|---|
-| `ANALYSIS_FILE_NAME.sas` | Full analysis code |
+| `epid622_FINAL.sas` | Full analysis code |
 | `README.md` | Project overview |
+| `MurrayEileen_FINALDRAFT_EPID622.docx` | Final Paper|
 
 ## How to Run
 
