@@ -34,8 +34,9 @@ This analysis uses the **2023 NSCH Topical Public Use File**, funded by the Heal
 ## Key Results 
 
 -  Most parents **perceived their neighborhood as safe (94.92%)**.
-- In crude models, children in perceived unsafe neighborhoods had **significantly lower log-odds of 1 hour (log-OR: −0.646, p = 0.024) and 2 hours (log-OR: −0.667, p = 0.020) of weekday outdoor play relative to less than 1 hour**
--  For weekend outdoor play, crude associations were significant across all playtime categories, and the association for 4 or more hours per day remained significant after full adjustment (log-OR: −1.021, p = 0.003). No significant effect measure modification was identified for either outcome.
+- In crude models, children in perceived unsafe neighborhoods had ***lower log-odds of 1 hour (log-OR: −0.646, p = 0.024) and 2 hours (log-OR: −0.667, p = 0.020) of weekday outdoor play relative to less than 1 hour**
+-  For weekend outdoor play, crude associations were significant across all playtime categories, and ***the association for 4 or more hours per day remained significant after full adjustment (log-OR: −1.021, p = 0.003).**
+- No significant effect measure modification was identified for either outcome.
 
 ## Conclusions
 
